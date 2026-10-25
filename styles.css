@@ -662,3 +662,8 @@ button.bg-sage.text-base {
     animation-iteration-count: 1 !important;
   }
 }
+/* Убираем временные подписи под фото на главной */
+#hero figure figcaption,
+#about figure figcaption {
+  display: none !important;
+}
