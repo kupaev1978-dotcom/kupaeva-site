@@ -663,7 +663,6 @@ button.bg-sage.text-base {
   }
 }
 /* Убираем временные подписи под фото на главной */
-#hero figure figcaption,
-#about figure figcaption {
+figcaption {
   display: none !important;
 }
